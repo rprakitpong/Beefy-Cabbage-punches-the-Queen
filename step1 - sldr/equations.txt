@@ -1,7 +1,7 @@
 ﻿"shaftDiam" = 20mm
 "keyW" = 8mm
 "keyL" = 10mm
-"clearance" = .8mm
+"clearance" = 1mm
 "handleShaftLen" = 60mm
 "panelH" = 80mm
 "panelW" = 110mm
