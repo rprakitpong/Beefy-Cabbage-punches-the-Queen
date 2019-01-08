@@ -1,13 +1,13 @@
-cabWStand
-camFolHolder
-camFol
-crackArmCam
+cabWStand - y
+camFolHolder 
+camFol - y
+crackArmCam - y
 crackArmShaft - y
 gear - y
 mArm - y
 mArmShaft - y 
 queenBod - y
-queenHead
-standPanel
+queenHead - y
+standPanel - y
 tHandle - y 
 tHandleConnector - y
