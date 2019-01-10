@@ -4,7 +4,6 @@ A automata side project from a reddit meme from r/me_irl
 # !!!DISCLAIMER!!!
 ## This project is a joke. I mean no harm to any subject involved in this automata. 
 ## Please do not take this to mean anything other than a toy.
-## Don't spread hate. It's all love up in here.
 
 ### 4 main steps:
 
